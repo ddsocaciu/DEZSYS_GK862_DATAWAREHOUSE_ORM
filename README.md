@@ -72,6 +72,7 @@ Create a GITHUB repository for this project and add the link to it in the commen
     * Answer the questions below about the ORM framework.  
     * Use the tutorial ["Accessing data with MySQL"](https://spring.io/guides/gs/accessing-data-mysql) 
     * Implement the MySQL example with the User database 
+    * Create a new user record (eg. curl -X POST "http://localhost:8080/demo/add" -d "name=John" -d "email=john@example.com")
     * Document each single development step in your protocol and describe the most important code snippets in few sentences. Furthermore, the output of the application and any problems that occur should be documented in submission document.
     * Customize the data model for the Data Warehouse application (min. 2 entities with 1 relation).  
     * Insert following records: 2 Data Warehouse records, 10 Product records.  
